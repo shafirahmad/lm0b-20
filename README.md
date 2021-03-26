@@ -1,2 +1,9 @@
 # lm0b-20
 LM0B Beginners Jam #20 
+
+# Overview
+Try to make a very very  very simple game in less than 28 hours, as that is all the time left in LM0B Beginners Jam #20 https://itch.io/jam/lm0b-beginners-game-jam-20
+
+As this would be my first game and first pygame, the expectations are low TBH
+(It might just be a pong clone)
+
