@@ -6,4 +6,6 @@ Try to make a very very  very simple game in less than 28 hours, as that is all 
 
 As this would be my first game and first pygame, the expectations are low TBH
 (It might just be a pong clone)
+It ended up being kind of a pong game, with 1 player bouncing a ball up and down.
 
+Submitted to https://itch.io/jam/lm0b-beginners-game-jam-20
