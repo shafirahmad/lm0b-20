@@ -253,4 +253,4 @@ while True: # main game loop
     else:
         screen.blit(pygame.transform.scale(gamescreen,WINDOW_SIZE),(0,0))
     pygame.display.update()
-
+    clock.tick(FPS)
